@@ -7,7 +7,7 @@ exclude: true
 
 # The Address Bar
 
-The **address bar** shows you what URL you're currently visiting (remember the [lesson about URLs](TODO)):
+The **address bar** shows you what URL you're currently visiting (remember the [lesson about URLs](/how-the-internet-works/urls)):
 
 {% include figure.html url="/images/address-bar.png" description="A browser with the address bar highlighted" %}
 
@@ -19,4 +19,8 @@ Or, if you know the new URL you want to visit, you can navigate there by typing 
 
 Make sure you type any new URL into the address bar, *not* into a search field on a web page:
 
+TODO: Edit or retake the image below, currently shows yahoo.com in the address bar.
+
 {% include figure.html url="/images/address-bar-dont-type-in-search.png" description="Don't type a new URL into a search field" %}
+
+TODO: Search vs directly visiting a site via the address bar. 
