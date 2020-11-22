@@ -2,7 +2,8 @@
 layout: page
 title: Navigating within a website
 permalink: /navigation/within
-exclude: true
+category: navigation
+order: 45
 ---
 
 TODO: all of it

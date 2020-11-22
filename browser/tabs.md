@@ -2,10 +2,9 @@
 layout: page
 title: Tabs and the tab bar
 permalink: /browser/tabs
-exclude: true
+category: browser
+order: 62
 ---
-
-# Tabs
 
 At the top of your browser is the **tab bar**. Your browser can have multiple **tabs** open at a time, each of which displays a different web site.
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: The address bar
-permalink: /browser/address-bar
-category: browser
-order: 61
+permalink: /navigation/address-bar
+category: navigation
+order: 43
 ---
 
 {% flexible_include 'shared/address-bar.md' %}

@@ -2,7 +2,8 @@
 layout: page
 title: Links
 permalink: /navigation/links
-exclude: true
+category: navigation
+order: 42
 ---
 
 TODO: all of it

@@ -2,6 +2,9 @@
 layout: page
 title: How the Internet works
 permalink: /how-the-internet-works/
+category: how-the-internet-works
+show_in_header: true
+order: 20
 ---
 
 # What is the Internet, and how does it work?

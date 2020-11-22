@@ -2,6 +2,8 @@
 layout: page
 title: What is a website?
 permalink: /how-the-internet-works/websites
+category: how-the-internet-works
+order: 21
 ---
 
 When you view a simple website, such as this one, you're really reading a file stored on a computer. Typically, these files are written in a language called **HTML**: **Hypertext Markup Language**. HTML is a language that describes the structure and content of a web page. [Web browsers](/browser) know how to interpret read HTML and display it in a user-friendly way.

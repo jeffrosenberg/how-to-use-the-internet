@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
+show_in_header: true
+order: 0
 ---
 
 # About this site

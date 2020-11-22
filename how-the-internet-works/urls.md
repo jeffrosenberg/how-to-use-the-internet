@@ -2,6 +2,8 @@
 layout: page
 title: Internet Addresses
 permalink: /how-the-internet-works/urls
+category: how-the-internet-works
+order: 22
 ---
 
 # URLs: Addresses for the Internet

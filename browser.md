@@ -2,6 +2,9 @@
 layout: page
 title: How to use your browser
 permalink: /browser/
+category: browser
+show_in_header: true
+order: 60
 ---
 
 # What is a web browser?
@@ -13,7 +16,7 @@ A web browser is a program on your computer that helps you to access the Interne
 - [Safari](https://www.apple.com/safari/){:target="_blank"}
 - [Edge](https://www.microsoft.com/en-us/edge){:target="_blank"}
 
-A web browser _isn't_ "the Internet", it's a tool you use to _access_ the Internet.
+A web browser _isn't_ "the Internet", it's a tool you use to _access_ the Internet. TODO: more!
 
 Important browser components you need to understand include:
 
