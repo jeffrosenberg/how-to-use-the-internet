@@ -1,0 +1,31 @@
+
+
+/**
+ * Figures
+ */
+ figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: $small-font-size;
+  font-style: italic;
+  text-align: center;
+}
+
+/**
+ * Navigation links (prev/next)
+ */
+.bottom-nav {
+  display: inline;
+  font: #{$base-font-weight + 100} #{$small-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+
+  .bottom-nav-prev {
+    float: left;
+  }
+
+  .bottom-nav-next {
+    float: right;
+  }
+}

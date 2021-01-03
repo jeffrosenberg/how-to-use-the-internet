@@ -10,7 +10,7 @@ Often, you're not trying to visit a particular website, but looking for a partic
 
 All search engines share a basic design in common: They start with a search box where you enter your search query. You can execute your search by clicking a button or pressing `enter`. After that, you're shown a list of results, each of which is a [link](/navigation/links) to a website that matches your search.
 
-{% include figure.html url="/images/todo.png" description="TODO: place an image" %}
+{% include figure.html url="/images/search-example.png" description="A Google search for 'how to search the internet'" %}
 
 Common search engines include:
 
@@ -18,7 +18,9 @@ Common search engines include:
 - [Bing](https://www.bing.com)
 - [DuckDuckGo](https://duckduckgo.com)
 
-There are two common strategies you can use when preparing a search query:
+## Search queries
+
+A **search query** is the phrase or set of keywords you enter into a search engine to perform your search. There are two common strategies you can use when preparing a search query:
 
 1. Focusing on the most important keywords you want to find:
   - *dog training tips*

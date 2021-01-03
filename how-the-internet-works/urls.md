@@ -12,7 +12,7 @@ On the page [How the Internet works](/how-the-internet-works), I wrote:
 
 > The Internet is millions of computers, all connected together.
 
-And on the page [What exactly is a website?](/how-the-internet-works/websites), I wrote:
+And on the page [What is a website?](/how-the-internet-works/websites), I wrote:
 
 > When you view a simple website, such as this one, you're really reading a file stored on a computer.
 

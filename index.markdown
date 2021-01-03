@@ -2,7 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: Home
+display_title: false
+permalink: /
+order: 1
 ---
 
 Welcome! You've reached a page on the Internet that's all about how to find other pages on the Internet.
@@ -13,7 +17,7 @@ This site is written to be useful for both adults and kids, so I've tried to use
 
 ### Lessons
 
-The first time you read this site, please read these lessons in order, as each introduces concepts that will be used by the next.
+The first time you read this site, please read these lessons in order, as each introduces concepts that will be used by the next. The easiest way is to navigate using the "Prev" and "Next" links at the bottom of each page.
 
 - [How the Internet works](/how-the-internet-works)
 - [How to navigate the Internet](/navigation)

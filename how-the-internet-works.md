@@ -13,5 +13,5 @@ The Internet is millions of computers, all connected together. On each computer,
 
 Some basic concepts you need to understand include:
 
-- [What exactly is a website?](/how-the-internet-works/websites)
+- [What is a website?](/how-the-internet-works/websites)
 - [Internet addresses (URLs)](/how-the-internet-works/urls)

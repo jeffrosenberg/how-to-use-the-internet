@@ -11,5 +11,5 @@ Now that you understand the basics of [how the Internet works](/how-the-internet
 
 - [Searching](/navigation/searching)
 - Following (and sharing) [links](/navigation/links)
-- Using your browser's [address bar](/navigation/address-bar) and [bookmarks](/navigation/bookmarks)
+- Using your browser's [address bar and bookmarks](/navigation/address-bar-and-bookmarks)
 - Navigating [within a website](/navigation/within)

@@ -12,7 +12,7 @@ When you view a simple website, such as this one, you're really reading a file s
 
 A file written in HTML is simply called an "HTML file". Interpreting HTML files, and turning it into readable text and images, is one of the primary things your [web browser](/browser) does. In fact, your browser will interpret any HTML file you give it, whether it's on the Internet or right on your own computer.
 
-### Is that really _all_ a website is?
+## Is that really _all_ a website is?
 
 It *can* be -- a single HTML file is enough to make a valid website. But these days, most websites are more complex than that. In addition to HTML, there are a couple of other components you'll typically find on a modern website. I'm not going to explain these in detail, but it's helpful to know they exist.
 

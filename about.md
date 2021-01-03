@@ -6,13 +6,13 @@ show_in_header: true
 order: 0
 ---
 
-# About this site
+Hi! My name is Jeff, and I created this site to help my family members with Internet literacy. I believe that a basic understanding of the fundamentals will make it easier and less stressful to navigate the Internet, and help to keep people safe online.
 
-Hi! My name is Jeff, and I created this site to help my family members with Internet literacy. But writing everything in a word processor didn't really appeal to me, so I decided to use the opportunity to test out some [simple website building tools](https://jekyllrb.com) and publish it in case it could be helpful to others.
+Writing my tutorial in a word processor and distributing it on paper didn't really appeal to me, so I decided to use the opportunity to test out some [simple website building tools](https://jekyllrb.com){:target="_blank"} and publish it on the Internet in case it could be helpful to others.
 
-### Help me improve this site!
+## Help me improve this site!
 
-See a mistake? Want to offer some additional content? This site is open source, and suggestions are welcome. Please see this site's [Github page](https://github.com/jeffrosenberg/how-to-use-the-internet) to contribute.
+See a mistake? Want to offer some additional content? [Send me an email](mailto:rosenberg.jeff@gmail.com)! Or feel free to contribute your own changes -- this site is open source, and improvements are welcome. Please see this site's [Github page](https://github.com/jeffrosenberg/how-to-use-the-internet){:target="_blank"} to contribute.
 
 # Copyright release
 
