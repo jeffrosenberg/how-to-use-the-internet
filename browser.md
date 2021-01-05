@@ -27,6 +27,8 @@ A web browser is a tool that knows how to interpret read HTML and display it in 
 Because you need a web browser to access the Internet and read web pages, it's important to understand how to use your web browser. The most common web browser components you'll interact with include:
 
 - The [address bar](/browser/address-bar)
+- The [navigation buttons](/browser/navigation-buttons)
 - [Tabs](/browser/tabs)
 - [Bookmarks](/browser/bookmarks)
+- [History](/browser/history)
 - [Extensions](/browser/extensions)

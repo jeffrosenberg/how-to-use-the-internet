@@ -3,7 +3,7 @@ layout: page
 title: Extensions
 permalink: /browser/extensions
 category: browser
-order: 64
+order: 69
 ---
 
 **Extensions** are small programs you can add to your browser that allow you to **extend** the browser's abilities. They can tweak your browsing experience to do things like:
