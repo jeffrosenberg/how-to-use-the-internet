@@ -9,7 +9,9 @@ order: 70
 
 You should now understand the basics of how the Internet works and how to use it. I hope this understanding helps you to enjoy using the Internet more, and helps keep you safe online!
 
-{% include figure.html url="/images/you-did-it.png" description="Congratulations - you did it!" %}
+<figure class="image">
+  <img src="/images/you-did-it.png" alt="Congratulations - you did it!">
+</figure>
 
 Are there things you still don't understand? [Start over from the beginning](/), or use the tabs on top to navigate to a particular section you want to re-read.
 

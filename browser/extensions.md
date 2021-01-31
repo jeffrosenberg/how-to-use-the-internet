@@ -14,7 +14,9 @@ order: 69
 
 For example, the [Laser Cat extension](https://chrome.google.com/webstore/detail/laser-cat/ccnpdidcjgcdgaopacccfghmgdlipnoc/related?hl=en-US){:target="_blank"} allows you to "Shoot laser at things you want to remove from the internet."
 
-{% include figure.html url="/images/extensions-laser-cat.gif" description="An animation of Laser Cat removing content from this site" %}
+<figure class="image">
+  <img src="/images/extensions-laser-cat.gif" alt="An animation of Laser Cat removing content from this site">
+</figure>
 
 ## Be careful with extensions!
 
@@ -24,7 +26,10 @@ On an operating system like ChromeOS (used on Chromebooks), malicious extensions
 
 When you install an extension, you'll get a confirmation request from your browser that looks like this:
 
-{% include figure.html url="/images/extensions-add.png" description="A confirmation request for installing an extension on Chrome" caption="A confirmation request for installing an extension on Chrome" %}
+<figure class="image">
+  <img src="/images/extensions-add.png" alt="A confirmation request for installing an extension on Chrome">
+  <figcaption>A confirmation request for installing an extension on Chrome</figcaption>
+</figure>
 
 If you see a request like this pop up, and you aren't purposefully trying to install an extension, make sure to click _cancel_. This is probably a malicious attempt to install an extension.
 
@@ -32,12 +37,21 @@ If you see a request like this pop up, and you aren't purposefully trying to ins
 
 Extensions typically add an icon next to your address bar, which you can click to use the extension. You can get access to an extension's options, or disable or remove it, by right-clicking the extension icon. You can also see which extensions you have installed by opening the Extensions settings in Chrome:
 
-{% include figure.html url="/images/extensions-menu.png" description="How to find extensions in the Chrome menu" caption="How to find extensions in the Chrome menu" %}
+<figure class="image">
+  <img src="/images/extensions-menu.png" alt="How to find extensions in the Chrome menu">
+  <figcaption>How to find extensions in the Chrome menu</figcaption>
+</figure>
 
-{% include figure.html url="/images/extensions-settings.png" description="The Chrome extensions settings" caption="The Chrome extensions settings" %}
+<figure class="image">
+  <img src="/images/extensions-settings.png" alt="The Chrome extensions settings">
+  <figcaption>The Chrome extensions settings</figcaption>
+</figure>
 
 If you want to install an extension, you can use the Chrome Web Store, which maintains a collection of extensions for the Chrome browser. From the Extensions settings page, click the hamburger menu to get a link to the Chrome Web Store:
 
-{% include figure.html url="/images/extensions-menu.png" description="How to find extensions in the Chrome menu" caption="How to find extensions in the Chrome menu" %}
+<figure class="image">
+  <img src="/images/extensions-menu.png" alt="How to find extensions in the Chrome menu">
+  <figcaption>How to find extensions in the Chrome menu</figcaption>
+</figure>
 
 When installing extensions, keep the warnings above in mind! While they can improve your browsing experience, you should be careful about how many extensions you install, and do your best to make sure they're trustworthy.

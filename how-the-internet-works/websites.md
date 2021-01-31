@@ -8,7 +8,10 @@ order: 21
 
 When you view a simple website, such as this one, you're really reading a file stored on a computer. Typically, these files are written in a language called **HTML**: **Hypertext Markup Language**. HTML is a language that describes the structure and content of a web page. [Web browsers](/browser) know how to interpret read HTML and display it in a user-friendly way.
 
-{% include figure.html url="/images/website-html.png" description="An example of HTML" caption="An excerpt of the HTML for an early version of this page" %}
+<figure class="image">
+  <img src="/images/website-html.png" alt="An example of HTML">
+  <figcaption>An excerpt of the HTML for an early version of this page</figcaption>
+</figure>
 
 A file written in HTML is simply called an "HTML file". Interpreting HTML files, and turning it into readable text and images, is one of the primary things your [web browser](/browser) does. In fact, your browser will interpret any HTML file you give it, whether it's on the Internet or right on your own computer.
 

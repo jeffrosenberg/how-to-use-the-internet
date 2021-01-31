@@ -10,10 +10,14 @@ The [address bar](/browser/address-bar) and [bookmarks](/browser/bookmarks) are 
 
 If you know the [URL](/how-the-internet-works/urls) of a web site, you can navigate directly to it by entering it into your address bar:
 
-{% include figure.html url="/images/address-bar.png" description="A browser with the address bar highlighted" %}
+<figure class="image">
+  <img src="/images/address-bar.png" alt="A browser with the address bar highlighted">
+</figure>
 
 If you have sites you visit frequently, you can use bookmarks to save those sites and easily return to them:
 
-{% include figure.html url="/images/bookmarks.png" description="A browser window with bookmarks displayed" %}
+<figure class="image">
+  <img src="/images/bookmarks.png" alt="A browser window with bookmarks displayed">
+</figure>
 
 You can read more about each of these features in the section on [using your web browser](/browser).

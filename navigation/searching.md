@@ -10,7 +10,9 @@ Often, you're not trying to visit a particular website, but looking for a partic
 
 All search engines share a basic design in common: They start with a search box where you enter your search query. You can execute your search by clicking a button or pressing `enter`. After that, you're shown a list of results, each of which is a [link](/navigation/links) to a website that matches your search.
 
-{% include figure.html url="/images/search-example.png" description="A Google search for 'how to search the internet'" %}
+<figure class="image">
+  <img src="/images/search-example.png" alt="A Google search for 'how to search the internet'">
+</figure>
 
 Common search engines include:
 

@@ -8,7 +8,9 @@ order: 62
 
 As you navigate the Internet, each tab in your browser keeps track of the history of the pages you've visited. You can use the **navigation buttons** to travel backwards and forwards in that history, or to return to your home page.
 
-{% include figure.html url="/images/navigation-buttons.png" description="The navigation buttons in Chrome" %}
+<figure class="image">
+  <img src="/images/navigation-buttons.png" alt="The navigation buttons in Chrome">
+</figure>
 
 From left to right, the navigation buttons are:
 
@@ -21,4 +23,7 @@ From left to right, the navigation buttons are:
 
 One other tip: by clicking and holding on the back or forward button, you can see a list of recent pages and move back or forward across multiple pages, instead of one at a time.
 
-{% include figure.html url="/images/navigation-buttons-hold.png" description="Holding the back button in Chrome" caption="Holding the back button - now click the page you want to open" %}
+<figure class="image">
+  <img src="/images/navigation-buttons-hold.png" alt="Holding the back button in Chrome">
+  <figcaption>Holding the back button - now click the page you want to open</figcaption>
+</figure>
